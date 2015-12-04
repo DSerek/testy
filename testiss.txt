@@ -1,3 +1,4 @@
 ok
 nie ok
 teraz testujemy psucie na githubie
+troche mi nie poszlo z komentarzem, wiec jest poprawka
